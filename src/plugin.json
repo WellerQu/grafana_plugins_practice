@@ -1,0 +1,23 @@
+{
+    "id": "practice-panel", 
+    "type": "panel",
+    "name": "Practice Panel",
+
+    "info": {
+        "description": "a practice to develop a panel",
+        "author": {
+            "name": "Qiuwei",
+            "url": "http://nixon.leanote.com/"
+        },
+        "keywords": ["practice", "panel", "grafana plugin"],
+        "logos": {
+            "small": "",
+            "large": ""
+        },
+        "version": "0.0.1"
+    },
+    "dependencies": {
+        "grafanaVersion": "4.x.x",
+        "plugins": []
+    }
+}
