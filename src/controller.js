@@ -74,8 +74,8 @@ export class Controller extends MetricsPanelCtrl {
         console.info('onDataError trigger')
         console.trace();
 
-        this.data.xAxis = [];
-        this.data.seriesData = [];
+        this.xAxis = [];
+        this.seriesData = [];
         this.render(); // 渲染界面
     }
 
